@@ -1,0 +1,65 @@
+body {
+    padding-top: 0;
+    background-color: pink;
+}
+.c11{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+.c22{
+    margin-left: 650px;
+}
+.c23:hover{
+ background-color: goldenrod;
+
+}
+.c31{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.c1{
+    margin-right: 0%;
+}
+.heading{
+    text-align: center;
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:midnightblue;
+    margin-top: 2%;
+}
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 10px 5px 5px 10px rgb(116, 110, 110);
+}
+.card{
+   
+    background-color: rgb(124, 139, 83);
+}
+.card-title{
+    color: black;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caro{
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 3%;
+    width:900px;
+}
+#contact {
+    background: rgb(243, 201, 97) no-repeat center;
+}
+.footer{
+    height:40px;
+    color:aliceblue;
+    
+}
+.c14{
+    margin-top: 1%;
+    width:1000px;
+    height:500px;
+    align-items: center;
+}
+.row{
+    align-items: center;
+}
